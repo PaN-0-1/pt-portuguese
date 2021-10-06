@@ -32,7 +32,7 @@ user-defined types among other features.
 With Solidity you can create contracts for uses such as voting, crowdfunding, blind auctions,
 and multi-signature wallets.
 
-+om solidity é possível criar contratos para usar em diversos cenários como por exemplo, sistema de voto, financiamento coletivo, 
++Com solidity é possível criar contratos para usar em diversos cenários como por exemplo, sistema de voto, financiamento coletivo, 
 
 When deploying contracts, you should use the latest released
 version of Solidity. This is because breaking changes as well as
