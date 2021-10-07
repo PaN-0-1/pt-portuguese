@@ -97,27 +97,62 @@ our `Gitter channel <https://gitter.im/ethereum/solidity/>`_.
 
 .. _translations:
 
++.. _translations:
+
 Translations
 ------------
+
++Traduções
+ ---------
 
 Community volunteers help translate this documentation into several languages.
 They have varying degrees of completeness and up-to-dateness. The English
 version stands as a reference.
 
++ Voluntários da comunidade ajudam a traduzir esses documentos im diferentes línguas. Possuindo diferentes niveis de conclusão e atualização. A versao em Ingles é usada como referência.
+
 .. note::
+
++.. note::
 
    We recently set up a new GitHub organization and translation workflow to help streamline the
    community efforts. Please refer to the `translation guide <https://github.com/solidity-docs/translation-guide>`_
    for information on how to contribute to the community translations moving forward.
+   
+   +Nós recentemente preparamos uma nova organização e fluxo de trabalho no GitHub para simplificar e agilizar os esforços da comunidade. Consulte o `Guia de tradução <https://github.com/solidity-docs/translation-guide>`_ para informações em como contribuir com a comunidade de tradução a avançar.
 
 * `French <https://solidity-fr.readthedocs.io>`_ (in progress)
+
++* `Francês <https://solidity-fr.readthedocs.io>`_ (em progresso)
+
 * `Italian <https://github.com/damianoazzolini/solidity>`_ (in progress)
+
++* `Italiano <https://github.com/damianoazzolini/solidity>`_ (em progresso)
+
 * `Japanese <https://solidity-jp.readthedocs.io>`_
+
++* `Japonês <https://solidity-jp.readthedocs.io>`_
+
 * `Korean <https://solidity-kr.readthedocs.io>`_ (in progress)
+
++* `Koreano <https://solidity-kr.readthedocs.io>`_ (em progresso)
+
 * `Russian <https://github.com/ethereum/wiki/wiki/%5BRussian%5D-%D0%A0%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE-%D0%BF%D0%BE-Solidity>`_ (rather outdated)
+
++ `Russo <https://github.com/ethereum/wiki/wiki/%5BRussian%5D-%D0%A0%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE-%D0%BF%D0%BE-Solidity>`_ (Desatualizado)
+
 * `Simplified Chinese <https://learnblockchain.cn/docs/solidity/>`_ (in progress)
+
++* `Chinês Simplificado <https://learnblockchain.cn/docs/solidity/>`_ (em progresso)
+
+
 * `Spanish <https://solidity-es.readthedocs.io>`_
+
++* `Espanhol <https://solidity-es.readthedocs.io>`_
+
 * `Turkish <https://github.com/denizozzgur/Solidity_TR/blob/master/README.md>`_ (partial)
+
++* `Turco <https://github.com/denizozzgur/Solidity_TR/blob/master/README.md>`_ (parcial)
 
 Contents
 ========
