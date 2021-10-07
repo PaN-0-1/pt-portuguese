@@ -50,10 +50,18 @@ read our :doc:`contributors guide <contributing>` for more details.
 Getting Started
 ---------------
 
++Iniciando
++---------------
+
 **1. Understand the Smart Contract Basics**
 
++**1. Entendendo o básico de Smart Contracts**
+
+
 If you are new to the concept of smart contracts we recommend you to get started by digging
-into the "Introduction to Smart Contracts" section, which covers:
+into the "Introduction to Smart Contracts" section, which covers":
+
++Se voce é novo com o conceito de smart contracts nós recomendamos que voce comece pela seção de "Introduction to Smart Contracts" section, which covers":
 
 * :ref:`A simple example smart contract <simple-smart-contract>` written in Solidity.
 * :ref:`Blockchain Basics <blockchain-basics>`.
@@ -61,21 +69,38 @@ into the "Introduction to Smart Contracts" section, which covers:
 
 **2. Get to Know Solidity**
 
++**2. Conhecendo a Solidity**
+
 Once you are accustomed to the basics, we recommend you read the :doc:`"Solidity by Example" <solidity-by-example>`
 and “Language Description” sections to understand the core concepts of the language.
 
++ Uma vez que voce tenha se acostumado com o basico, nos recomendamos que voce leia as seções :doc:`"Solidity by Example" <solidity-by-example>` e “Language Description” para entender os conceitos da lingua.
+
 **3. Install the Solidity Compiler**
+
++**3. Instalando o Compilador para Solidity**
 
 There are various ways to install the Solidity compiler,
 simply choose your preferred option and follow the steps outlined on the :ref:`installation page <installing-solidity>`.
 
++ Existem algumas maneiras de se instalaro compilador Solidity,
+apenas escolha umas das opções e siga os passos descritos na :ref:`installation page <installing-solidity>`.
+
 .. hint::
+
++.. Dica::
+
   You can try out code examples directly in your browser with the
   `Remix IDE <https://remix.ethereum.org>`_. Remix is a web browser based IDE
   that allows you to write, deploy and administer Solidity smart contracts, without
   the need to install Solidity locally.
+  
+  + Voce pode tentar alguns exmpls de codigo diretamente no seu browser com a IDE Remix `Remix IDE <https://remix.ethereum.org>`_. Remix e uma IDE baseada em Navegador que te  permite escrever, implemantar e administrar adminstrar smart contracts, sem a necessidade de instalação da Solidity localmente. 
 
 .. warning::
+
++.. warning::
+
     As humans write software, it can have bugs. You should follow established
     software development best-practices when writing your smart contracts. This
     includes code review, testing, audits, and correctness proofs. Smart contract
@@ -83,17 +108,26 @@ simply choose your preferred option and follow the steps outlined on the :ref:`i
     blockchains and smart contracts have their own unique issues to
     watch out for, so before working on production code, make sure you read the
     :ref:`security_considerations` section.
-
+    
+    +Como humanos escreveram o codigo, o mesmo pode conter bugs. Voce deve seguir as boas praticas estabelecidas quando estiver escrevendo seus smart contracts. Isso Inclui revisao de codigo, testes, auditamento, e exatidão das provas. Usuarios de Smart Contracts geralmente são mais confidentes que seus autores, e blockchains e smart contracs tem suas particularidades as quais deve ficar atentoa a, logo antes de comacar a trabalher na produçao de caodigo, tenah certeza de ler a sessão :ref:`security_considerations`.
+    
 **4. Learn More**
+
++**4. Saiba Mais**
 
 If you want to learn more about building decentralized applications on Ethereum, the
 `Ethereum Developer Resources <https://ethereum.org/en/developers/>`_
 can help you with further general documentation around Ethereum, and a wide selection of tutorials,
 tools and development frameworks.
 
++ Se voce quer saber mais sobre criar aplicações descentralizada na Ethereum, o  `Ethereum Developer Resources <https://ethereum.org/en/developers/>`_ pode te ajudar com informaçaoe mais básicas a respeito da Ethereum,e grande acervo de tutoriais, ferramentas e Frameworks de desenvolvimento.
+
 If you have any questions, you can try searching for answers or asking on the
 `Ethereum StackExchange <https://ethereum.stackexchange.com/>`_, or
 our `Gitter channel <https://gitter.im/ethereum/solidity/>`_.
+
++ Se voce tem alguma duvida, voce pode procurar por respostas ou perguntar nos nossos canais de comunicação `Ethereum StackExchange <https://ethereum.stackexchange.com/>`_, `Gitter channel <https://gitter.im/ethereum/solidity/>`_.
+
 
 .. _translations:
 
