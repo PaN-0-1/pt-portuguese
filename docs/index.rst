@@ -32,7 +32,7 @@ user-defined types among other features.
 With Solidity you can create contracts for uses such as voting, crowdfunding, blind auctions,
 and multi-signature wallets.
 
-Com solidity é possível criar contratos para usar em diversos cenários como por exemplo, sistema de voto, financiamento coletivo, 
++Com solidity é possível criar contratos para usar em diversos cenários como por exemplo, sistema de voto, financiamento coletivo, 
 
 When deploying contracts, you should use the latest released
 version of Solidity. This is because breaking changes as well as
@@ -43,9 +43,13 @@ a 0.x version number `to indicate this fast pace of change <https://semver.org/#
 
   Solidity recently released the 0.8.x version that introduced a lot of breaking
   changes. Make sure you read :doc:`the full list <080-breaking-changes>`.
+  
+  +Solidity liberou recentemente a versão de 0.8.x introduzindo muitas mudanças. Certifique de ler :doc:`the full list <080-breaking-changes>`.
 
 Ideas for improving Solidity or this documentation are always welcome,
 read our :doc:`contributors guide <contributing>` for more details.
+
++Ideias para melhorar a Solidity ou essa documentação são sempre bem vindas, leia nosso :doc:`contributors guide <contributing>` para mais detalhes.
 
 Getting Started
 ---------------
